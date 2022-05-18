@@ -1,4 +1,7 @@
-# Basic Sample Hardhat Project
+# Project Description
+This project entails an ERC721 Marketplace, built on the polygon testnet. Unlike our previous marketplace built on ethereum, the ERC721 smart contract was created using openzeppelin
+
+# Hardhat guidelines
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
@@ -16,7 +19,7 @@ npx hardhat help
 
 This is project was bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Getting Started With Next
 
 First, run the development server:
 
